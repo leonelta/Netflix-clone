@@ -18,12 +18,12 @@ body {
     justify-content: space-between;
     padding: 2% 5%;
     z-index: 10;
-  }
+}
 
 .navbar_logo{
     width: 100px;
     height: 100%;
-  }
+}
 
 .brand_logo{
     width: 120%;
@@ -36,4 +36,15 @@ body {
     color: white;
     padding: 1rem 1.5rem ;
     border-radius: 4px;
-  }
+}
+
+.hero_image_container{
+    width: 100%;
+    height: 100vh;
+}
+
+.hero_image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
