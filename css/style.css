@@ -65,7 +65,8 @@ body {
 
 .hero_card{
     position: absolute;
-    top: 20%;
+    top: 37%;
+    left: 24%;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -75,4 +76,16 @@ body {
 .hero_title{
     font-weight: 600;
     font-size: 4rem;
+}
+
+.hero_subtitle{
+    font-weight: 400;
+    font-size: 1.9rem;
+}
+
+.hero_description{
+    padding: 1rem 0;
+    font-weight: 400;
+    margin: 0 50px;
+    font-size: 1.5rem;
 }
