@@ -16,11 +16,24 @@ body {
     width: 100%;
     display: flex;
     justify-content: space-between;
-    padding: 3% 5%;
+    padding: 2% 5%;
     z-index: 10;
   }
 
-  .navbar_logo{
+.navbar_logo{
     width: 100px;
     height: 100%;
+  }
+
+.brand_logo{
+    width: 120%;
+    height: 110%;
+}
+
+.signin_button {
+    background-color: #dc030f;
+    border: 1px solid #dc030f;
+    color: white;
+    padding: 1rem 1.5rem ;
+    border-radius: 4px;
   }
