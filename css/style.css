@@ -85,7 +85,17 @@ body {
 
 .hero_description{
     padding: 1rem 0;
-    font-weight: 400;
+    font-weight: 300;
     margin: 0 50px;
     font-size: 1.5rem;
 }
+
+.email_form_container{
+    display: flex;
+    flex-direction: center;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+}
+
+.
