@@ -7,7 +7,7 @@
 body {
     background-color: black;
     color: white;
-    font-family: "Roboto", sans-serif;
+    font-family: "Poppins", sans-serif;
   }
 
 .navbar {
@@ -84,9 +84,9 @@ body {
 }
 
 .hero_description{
-    padding: 1rem 0;
-    font-weight: 300;
-    margin: 0 40px;
+   
+    font-weight: 400;
+    margin: 0 50px;
     font-size: 1rem;
 }
 
@@ -125,6 +125,15 @@ body {
 .email_input:focus + .email_label{
     top: 0.2rem;
     font-size: 12px;
+}
+
+.email__input:not(:placeholder-shown).email__input:not(:focus) + .email__label {
+    top: 0.2rem;
+    font-size: 10px;
+}
+  
+.email__input:focus-visible {
+    outline: none;
 }
 
 .primary_button {
