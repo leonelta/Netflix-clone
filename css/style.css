@@ -281,8 +281,8 @@ body {
 }
 
 .FAQ_accordian{
-    width: 35%;
-    height: 30%;
+    width: 40%;
+    height: 50%;
 }
 
 .FAQ_title{
@@ -290,7 +290,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 15px 20px;
-    font-size: 18px;
+    font-size: 20px;
     background-color: #303030;
     border: 1px solid #303030;
     color: white;
@@ -316,4 +316,14 @@ body {
     font-size: 18px;
     font-weight: 400;
     margin: 2rem 0;
-  }
+}
+
+
+.FAQ_started_email .form_container{
+    background-color: white;
+    width: 35%;
+    height: 53px;
+    position: relative;
+}
+
+
