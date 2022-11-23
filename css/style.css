@@ -150,5 +150,16 @@ body {
 
 .feature{
     border-top: 10px solid #222;
+    padding: 2rem 1rem;
+}
+
+.feature_details{
+    text-align: center;
+}
+
+.feature_title{
+    font-size: 25px;
+    font-weight: 600;
+    margin: 10px 0;
 }
 
