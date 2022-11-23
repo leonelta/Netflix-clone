@@ -158,8 +158,17 @@ body {
 }
 
 .feature_title{
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 600;
     margin: 10px 0;
 }
 
+.feature_subtitle{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.feature_image_container{
+    width: 100%;
+    position: relative;
+}
