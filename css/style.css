@@ -145,3 +145,10 @@ body {
     font-size: 16px;
     letter-spacing: 1px;
   }
+
+/*Feature*/
+
+.feature{
+    border-top: 10px solid #222;
+}
+
